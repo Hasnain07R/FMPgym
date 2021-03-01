@@ -1,0 +1,137 @@
+
+.nav-logo{
+    width: 140px !important;
+}
+.nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-weight: normal;
+    margin: 30px !important;
+    font-size: x-large;
+}
+
+#contact{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px 0px 0px 0px ;
+;
+    font-size: 30px;
+}
+#btn{
+    width: 130px;
+    height: 50px;
+    background-color:black;
+    color: white;
+    border-radius: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+#btnd{
+    padding-top: 10px;
+}
+.formdecoration{
+    background-color:red;
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+    box-shadow: black(100px,150px,100px,100px);
+    padding: 50px 0px 0px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+.formm{
+    border-radius: 10px;
+    border-color:  rgb(93, 190, 247);
+
+}
+.Massage{
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    .footer{
+       
+        position: absolute;
+        bottom:  0;
+        left: 0;
+        right: 0;
+        background-color: #111;
+        height: auto;
+        width: 100vw;
+         font-family: "open sans";
+         padding-top: 40px;
+         color: #fff;
+    }
+    .footer-content{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(53, 51, 51);
+    
+    
+    }
+    .footer-content h3{
+        color: white;
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+    }
+    .footer-content p{
+        color: white;
+        max-width: 1000px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    }
+    .socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+    }
+    .socials li{
+    margin: 0 10px;
+    }
+    .socials a{
+        text-decoration: none;
+        color: #fff;
+    
+    }
+    .socials a i{
+    font-size: 1.1rem;
+    
+    }
+    .socials a:hover i{
+    color: lightblue;
+    }
+    .foooter-bottom{
+        background-color: black;
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    }
+    
+    .footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    
+    }
+    .footer-bottom span{
+        text-transform: uppercase;
+        opacity: .4;
+        font-weight: 200;
+        color: white;
+    }
